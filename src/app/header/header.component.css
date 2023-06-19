@@ -1,0 +1,19 @@
+.header {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    background-color: #fff;
+    align-items: center;
+}
+.site-img {
+}
+
+img {   
+    width: 600px;
+}
+
+h2 {
+    font-size: 45px;
+    width: 400px;
+    margin-left: 50px;
+}
